@@ -12,7 +12,7 @@ const Header: NextPage = () => {
 	Toilet List
 	  </Link>
 	</nav>
-  </header>
+  	</header>
   )
 }
 
