@@ -1,0 +1,21 @@
+{
+  "bracketSpacing": true,
+  "singleQuote": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 80,
+  "arrowParens": "avoid",
+  "endOfLine": "auto",
+  "quoteProps": "preserve",
+  "trailingComma": "none",
+  "plugins": ["@ianvs/prettier-plugin-sort-imports"],
+  "importOrder": [
+    "^react",
+    "react$",
+    "^next",
+    "<THIRD_PARTY_MODULES>",
+    "",
+    "^@",
+    "",
+    "^[./]"
+  ]
+}
