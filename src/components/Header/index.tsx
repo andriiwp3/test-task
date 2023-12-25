@@ -8,7 +8,7 @@ const Header: NextPage = () => {
 	Logo
 	</Link>
 	<nav>
-	  <Link href="/dashboard" className="text-blue-500 hover:text-blue-700">
+	  <Link href="/toilets-list" className="text-blue-500 hover:text-blue-700">
 	Toilet List
 	  </Link>
 	</nav>
